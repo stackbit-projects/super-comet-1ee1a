@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-e
+    colors: colors-d
     title: >-
       This is an Award Winning Agency Based in San Francisco and Focusing on
       Digital, Identity, and Print Design.
