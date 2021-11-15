@@ -1,5 +1,5 @@
 ---
-title: Subtle
+title: Subtledhjksfdskjhfkjdshfsjdkhfdsjk
 layout: PostLayout
 date: '2021-07-01'
 author: content/data/team/hilary-ouse.json
@@ -21,14 +21,24 @@ bottomSections:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-12', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-4
         justifyContent: center
       title:
         fontWeight: '700'
         fontStyle: normal
         textAlign: center
-        margin: ['mt-0', 'mb-12']
+        margin:
+          - mt-0
+          - mb-12
       subtitle:
         fontWeight: '400'
         fontStyle: normal
