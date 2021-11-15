@@ -68,7 +68,12 @@
         "styles": {
             "self": {
                 "width": "full",
-                "padding": ["pt-5", "pb-5", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-5",
+                    "pb-5",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     },
@@ -100,14 +105,19 @@
                 "url": "/",
                 "showIcon": true,
                 "icon": "facebook",
-                "label": "Facebook"
+                "label": "Facebookfdgfsdgfd"
             }
         ],
         "legalLinks": [],
         "styles": {
             "self": {
                 "width": "full",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
