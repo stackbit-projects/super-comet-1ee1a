@@ -1,7 +1,7 @@
 ---
 title: The Book Is here
 date: '2021-10-26'
-excerpt: Editorial Design
+excerpt: Editorial Designsfgsf
 featuredImage:
   type: ImageBlock
   url: /images/work-book-cover-3.jpeg
