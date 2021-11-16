@@ -123,7 +123,7 @@ sections:
         label: View all
         url: /
         style: primary
-    showRecent: true
+    showRecent: false
     recentCount: 6
     styles:
       self:
